@@ -1,8 +1,8 @@
 # Prompt-Powered Kickstart: Building a Beginner's Toolkit for Python
 ### A Command-Line Task Manager — From Zero to Running Code
 
-> **Moringa School Capstone | Beginner's Toolkit with GenAI**
-> Author: [Your Name] | Date: March 2026
+> **My Capstone Project | Beginner's Toolkit with GenAI**
+> Author: UMMI MAHGOUB | 27: March 2026
 
 ---
 
