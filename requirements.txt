@@ -1,0 +1,13 @@
+# ============================================================
+#  requirements.txt
+#  Python CLI Task Manager — Dependencies
+# ============================================================
+#
+#  The core application uses ONLY the Python standard library:
+#    - json      (built-in)
+#    - os        (built-in)
+#    - datetime  (built-in)
+#
+#  The only extra package needed is for running the test suite:
+
+pytest>=7.0.0
