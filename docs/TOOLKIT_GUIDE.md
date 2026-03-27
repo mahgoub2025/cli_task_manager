@@ -1,7 +1,10 @@
-# Prompt-Powered Kickstart: Building a Beginner's Toolkit for Python
+# Prompt-Powered journey: Building a Beginner's Toolkit for Python
 ### A Command-Line Task Manager — From Zero to Running Code
 
+
+
 > **My Capstone Project | Beginner's Toolkit with GenAI**
+
 > Author: UMMI MAHGOUB | 27: March 2026
 
 ---
